@@ -6,6 +6,6 @@
 
 >_bu bir alıntı_
 
-## >_bu da bir alıntı_ ##
+> ## _bu da bir alıntı_ ##
 
 # Bu da başka bir puntodaki yazı #
