@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+
+içerik
+=======
+içerikadasdasdasdasd
+>>>>>>> gitRepo/master
