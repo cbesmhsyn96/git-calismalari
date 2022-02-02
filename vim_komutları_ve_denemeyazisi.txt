@@ -1,0 +1,50 @@
+V(Büyük v)    ==> satır seçer
+v(Küçük v)    ==> harf seçer
+a             ==> sonraki harf olarak yazmaya başlar
+A             ==> satır sonunda insert moduna geçer
+i             ==> imlecin bulunduğu yerden yazmaya başlar
+ı(Büyük ı)    ==> imlecim bulunduğu satırın başına gider ve yazma moduna geçer
+w             ==> sonraki kelimenin başına gider.
+W             ==> sonraki kelimenin başına gider.
+nw            ==> n sonraki kelimenin başına gider.
+b             ==> 1 önceki kelimeye gider
+nb            ==> n önceki kelimeye gider
+B             ==> b ile aynı
+nB            ==> nb ile aynı
+u             ==> undo yani işlemi geri alır
+o(Küçük o)    ==> İmlecin bulunduğu satırdan sonrasına yeni bir satır açılır ve yazmaya başlar.
+O(Büyük O)    ==> İmlecin bulunduğu satırdan öncesine yeni bir satır açılır ve yazmaya başlar.
+G(Enüststr)   ==> Son satıra gider
+1G            ==> Ilk satıra gider
+nG            ==> n. satıra gider
+$             ==> Satır sonuna gider
+0             ==> Satır başına gider
+yy            ==> Imlecin bulunduğu satırı kopyalar
+ny            ==> Imlecin bulunduğu satır dahil aşağıdaki satırlardan n satırı kopyalar.
+dd            ==> Imlecin bulunduğu satırı keser. Silmek için de kullanılıyor.
+nd            ==> Imlecin bulunduğu satır dahil aşağıdaki satırlardan n satır keser. 
+p             ==> alt satırdan itibaren yapıştırır.
+P             ==> üst satırdan itibaren yapıştırır.
+/str(ara)     ==> String aramak için kullanılır.
+CTRL+r        ==> işlemleri ileri alır
+ekleme yapılacak...
+
+
+asdasda asdasdas2413123 123123123 213123123 21 3123 21 3123213213 13123adsfsdfsd fsd fsdfsdfsdf
+
+
+
+
+
+nG ile n.satırın başına gitmesi için satır bitimi dikkate alınıyor yani yazılırken enter ile alt satıra geçmesi gerkiyor.
+
+ deasdasda asdasd asd asdasda sdasdasda sas dasdasd
+SDASDASDASD SA D SADAS D ASD A SD AS DA SD AS D ASD AS DASDASDASDSADASDASDASD AS D ASDSADASDASDASDASDASD AS D ASD AS DASDA SD ASD
+
+sadsadasd
+asd
+asdasdasdasdasd
+asdasdasd  adsdas  asda sd asd asdsad adasdasdasd enter
+ asdsad adsad asdasdasdasdsad as sad as dasd asd enter
+ aasdasdas enter
+satır başlangıcı asdasdasdasdsadasdasdasdasdasdasdsadggggggggggggggggggggggggggggggggggdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddenter satır bitimi

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
 içerik
 =======
-içerikadasdasdasdasd
->>>>>>> gitRepo/master
+içerikadasdasdasdas
