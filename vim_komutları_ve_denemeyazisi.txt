@@ -7,6 +7,7 @@ r             ==> bir karakter değiştirir
 C             ==> imlecin bulunduğu yerden satır sonuna kadar siler ve
                   yazma moduna geçer
 cc            ==> imlecin bulunduğu satırı siler ve yazma moduna geçer
+cx            ==> imlecin bulunduğu yerden kelime sonuna kadar siler insert moduna geçer.
 a             ==> sonraki harf olarak yazmaya başlar
 A             ==> satır sonunda insert moduna geçer
 i             ==> imlecin bulunduğu yerden yazmaya başlar
