@@ -1,5 +1,12 @@
 V(Büyük v)    ==> satır seçer
 v(Küçük v)    ==> harf seçer
+e             ==> sonraki kelimenin sonuna gider
+ne            ==> n sonraki kelimenin sonuna gider
+R             ==> birden fazla karakteri değiştirir ESC ile moddan çıkar.
+r             ==> bir karakter değiştirir
+C             ==> imlecin bulunduğu yerden satır sonuna kadar siler ve
+                  yazma moduna geçer
+cc            ==> imlecin bulunduğu satırı siler ve yazma moduna geçer
 a             ==> sonraki harf olarak yazmaya başlar
 A             ==> satır sonunda insert moduna geçer
 i             ==> imlecin bulunduğu yerden yazmaya başlar
